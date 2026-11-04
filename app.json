@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Wrist Rehab ROM Tracker",
+    "slug": "wrist-rehab-rom-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0B0F19",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B0F19"
+      },
+      "package": "com.korawit030745.wristrehabromtracker"
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "3088ccd1-1e69-4143-bace-fe40365e085f"
+      }
+    },
+    "owner": "korawit030745"
+  }
+}
